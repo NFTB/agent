@@ -11,6 +11,7 @@ Makefile
 
 # 可执行文件与产物
 main
+engine/engine
 *.o
 *.obj
 *.exe
@@ -32,3 +33,5 @@ Thumbs.db
 *.log
 *.tmp
 *.temp
+
+test/
